@@ -3,7 +3,7 @@ import java.util.*;
 //  n=6
 //  array values : ["Switch","Tv","Switch","Tv","Switch","Tv"]
 //  output array will be: [" Switch","Tv","Switch1","Tv1","Switch2","Tv2"]
-public class DeviceNameSystem {
+class DeviceNameSystem {
     public static void main(String[] args) {
         int n;
         Scanner sc=new Scanner(System.in);
