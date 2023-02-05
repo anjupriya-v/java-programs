@@ -1,5 +1,5 @@
 import java.util.*;
-public class SumOfPrimes {
+class SumOfPrimes {
     static int func(int rem){
         int value=rem;
         if(rem==2){
