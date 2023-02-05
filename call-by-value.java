@@ -1,5 +1,5 @@
 import java.util.*;
-public class CallByValue {
+class CallByValue {
     static void swap(int a,int b){
         System.out.println("Inside Function ,A= "+a+" B= "+b);
         int temp=0;
