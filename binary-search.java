@@ -1,5 +1,5 @@
 import java.util.*;
-public class BinarySearch {
+class BinarySearch {
     void search(int[]arr,int first,int last,int key) {
         int mid=0;
         while(first<=last){
