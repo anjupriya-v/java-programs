@@ -1,5 +1,5 @@
 import java.util.*;
-public class PerfectSquare {
+class PerfectSquare {
     public static void main(String[] args) {
         double n;
         Scanner sc=new Scanner(System.in);
