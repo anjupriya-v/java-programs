@@ -1,5 +1,5 @@
 import java.util.*;
-public class Pattern3 {
+class Pattern3 {
 //when n=3
 //      a     
 //     b  b   
