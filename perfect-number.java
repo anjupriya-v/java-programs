@@ -1,5 +1,5 @@
 import java.util.*;
-public class PerfectNumber {
+class PerfectNumber {
     //perfect number, a positive integer that is equal to the sum of its proper divisors. 
     public static void main(String[] args) {
         int n;
