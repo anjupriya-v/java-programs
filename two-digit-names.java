@@ -1,5 +1,5 @@
 import java.util.*;
-public class TwoDigitNames {
+class TwoDigitNames {
     public static void main(String[] args) {
         int n,rem=0;
         Scanner sc=new Scanner(System.in);
