@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Pattern4 {
+class Pattern4 {
     // when n=3, m=8
     //3 2 1
     //4 5 6
