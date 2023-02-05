@@ -1,5 +1,5 @@
 import java.util.*;
-public class CallByReference {
+class CallByReference {
     int a,b;
     CallByReference(int a,int b){
         this.a=a;
