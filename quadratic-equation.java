@@ -1,5 +1,5 @@
 import java.util.*;
-public class QuadraticEquation {
+class QuadraticEquation {
     public static void main(String[] args) {
         float a,b,c;
         double d=0,root1=0,root2=0;
