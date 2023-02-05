@@ -1,5 +1,5 @@
 import java.util.*;
-public class PrimeNumber {
+class PrimeNumber {
     static int func(int n){
         int flag=1;
         if(n==2){
