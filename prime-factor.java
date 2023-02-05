@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PrimeFactor {
+class PrimeFactor {
     static int isPrime(int n){
         int flag=0;
         if(n==2){
