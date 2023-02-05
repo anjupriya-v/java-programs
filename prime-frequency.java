@@ -1,5 +1,5 @@
 import java.util.*;
-public class PrimeFrequency {
+class PrimeFrequency {
     static int isPrime(int n){
         int flag=0;
         if(n==2){
