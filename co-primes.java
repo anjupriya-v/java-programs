@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CoPrimes {
+class CoPrimes {
     static int gcd(int a,int b){
         if(a==1|| b==1){
             return 1;
